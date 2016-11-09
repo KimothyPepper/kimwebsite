@@ -1,6 +1,6 @@
 # Kim Pepin
 
-![](./images/santo.JPG)
+![](./images/santo.jpg)
 
 ####[kimpepin.ca](http://kimpepin.ca)
 

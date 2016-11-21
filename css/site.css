@@ -2,7 +2,7 @@
 
 ---
 
-{% include_realtive modules.css %}
-{% include_realtive grid.css %}
-{% include_realtive type.css %}
-{% include_realtive main.css %}
+{% include_relative modules.css %}
+{% include_relative grid.css %}
+{% include_relative type.css %}
+{% include_relative main.css %}
